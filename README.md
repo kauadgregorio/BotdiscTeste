@@ -1,5 +1,5 @@
 # BotdiscTeste
-Bot de discord para tocar música
+Bot de discord para tocar música em Python
 
 import discord 
 from discord.ext import commands
